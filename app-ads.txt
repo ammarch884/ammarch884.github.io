@@ -17,6 +17,8 @@ google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
 google.com, pub-9041187040625593, DIRECT, f08c47fec0942fa0
 #=== AdmobHov
 google.com, pub-7758615977710231, DIRECT, f08c47fec0942fa0
+#=== AdmobVk
+google.com, pub-2722690705835211, DIRECT, f08c47fec0942fa0
 #=== AdmobKhm
 google.com, pub-5956990957166857, DIRECT, f08c47fec0942fa0
 #=== AudienceNetwork
